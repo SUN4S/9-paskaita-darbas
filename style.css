@@ -52,4 +52,8 @@ body {
   .container {
     display: block;
   }
+  
+  .side-column .article-body p {
+    height: 100px;
+  }
 }
